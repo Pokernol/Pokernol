@@ -5,7 +5,7 @@ Olá!! sou Leonardo Vinicius
 - 🌱 I’m currently learning html 5 / css 3 / Javascript.
 - 💬 Ask me about: Mangas e filmes
 - 😄 Pronouns: ele/dele
-<div align="center">
+<div>
   <a href="https://github.com/Pokernol">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pokernol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokernol&layout=compact&langs_count=7&theme=algolia"/>
