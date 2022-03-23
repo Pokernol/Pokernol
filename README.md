@@ -7,6 +7,7 @@ Olá!! sou Leonardo Vinicius
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokernol&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
