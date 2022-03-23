@@ -8,6 +8,8 @@ Olá!! sou Leonardo Vinicius
 <div>
   <a href="https://github.com/Pokernol">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pokernol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokernol&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 </div>
 <div style="display: inline_block"><br>
