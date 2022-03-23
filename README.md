@@ -1,17 +1,14 @@
 Olá!! sou Leonardo Vinicius 
 
 
-- 🔭 I’m currently working on <a href="https://neobpo.com.br/">Neobpo</a>
 - 🌱 I’m currently learning html 5 / css 3 / Javascript.
 - 💬 Ask me about: Mangas e filmes
 - 😄 Pronouns: ele/dele
-<div>
-  <a href="https://github.com/Pokernol">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pokernol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokernol&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-</div>
+
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokernol&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Leonardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leonardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
