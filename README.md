@@ -1,5 +1,11 @@
-Olá!! sou Leonardo Vinicius 
-
+Olá!! Sou Leonardo Vinicius 🖖!
+<div> 
+  <a href="https://instagram.com/pokernol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </a> 
+  <a href = "mailto:leonardovvieira25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-vin%C3%ADcius25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://t.me/pokernol" target="_black"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target"_black"></a>
+</div>
 
 - 🌱 I’m currently learning html 5 / css 3 / Javascript.
 - 💬 Ask me about: Mangas e filmes
@@ -17,11 +23,3 @@ Olá!! sou Leonardo Vinicius
 </div>
   
 ##
- 
-<div> 
-  <a href="https://instagram.com/pokernol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </a> 
-  <a href = "mailto:leonardovvieira25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-vin%C3%ADcius25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://t.me/pokernol" target="_black"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target"_black"></a>
-</div>
