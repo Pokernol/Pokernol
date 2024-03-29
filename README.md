@@ -8,8 +8,8 @@ Olá!! Sou Leonardo Vinicius 🖖!
 </div>
 
 - 🌱 I’m currently learning html 5 / css 3 / Javascript.
-- 💬 Ask me about: Mangas e filmes
-- 😄 Pronouns: ele/dele
+- 💬 Ask me about: Mangas and Movies
+- 😄 Pronouns: they/them
 
 
 ![pokernol GitHub stats](https://github-readme-stats.vercel.app/api?username=pokernol&show_icons=true&theme=dark&count_private=true) 
