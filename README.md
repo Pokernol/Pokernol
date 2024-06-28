@@ -1,8 +1,8 @@
-HI!! I'm Leonardo Vinicius 🖖!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82CDF7&height=120&section=header"/>
 
-- 🌱 I’m currently learning html 5 / css 3 / Javascript.
-- 💬 Ask me about: Mangas and Movies
-- 😄 Pronouns: they/them
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&weight=200&duration=3000&pause=1000&color=82CDF7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!!+Eu+sou+Leonardo+Vin%C3%ADcius+%F0%9F%96%96%F0%9F%8F%BC;Hi!!+I'm+Leonardo+Vin%C3%ADcius%F0%9F%96%96%F0%9F%8F%BC;Bem-Vindo+ao+meu+perfil!%F0%9F%98%81;Welcome+to+my+profile!%F0%9F%98%81" alt="Gif com nome do usuário e mensagem de boas vindas ao perfil"/>
+</p>
 
 ## Git Status
 <div align="center" href="https://github.com/maikonhenriqu9">
@@ -12,23 +12,10 @@ HI!! I'm Leonardo Vinicius 🖖!
 </div>
 
 ## Tecnologias que já trabalhei
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leonardo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leonardo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leonardo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leonardo-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Leonardo-Php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Leonardo-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Leonardo-Cpp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Leonardo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+[![Minhas Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,php,c,cpp,python,postgres,mysql)](https://skillicons.dev)
 
 ## Frameworks que já utilizei
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leonardo-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leonardo-Spting" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Leonardo-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-</div>
+[![Minhas Skills](https://skillicons.dev/icons?i=react,vue,spring,bootstrap)](https://skillicons.dev)
 
 ## Contatos
 <a href="https://instagram.com/pokernol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
