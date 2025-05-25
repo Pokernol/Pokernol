@@ -11,8 +11,8 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokernol&layout=compact&theme=dark"/>    
 </div>
 
-## Tecnologias que já trabalhei
-[![Minhas Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,php,c,cpp,python,postgres,mysql)](https://skillicons.dev)
+## Tecnologias Especializadas
+[![Minhas Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,csharp,python,postgres)](https://skillicons.dev)
 
 ## Frameworks que já utilizei
 [![Minhas Skills](https://skillicons.dev/icons?i=react,vue,spring,bootstrap)](https://skillicons.dev)
