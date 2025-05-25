@@ -15,7 +15,7 @@
 [![Minhas Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,python,postgres)](https://skillicons.dev)
 
 ## Frameworks Especializados
-[![Minhas Skills](https://skillicons.dev/icons?i=react,vue,spring,bootstrap, tailwind)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=react,vue,spring,bootstrap,tailwind)](https://skillicons.dev)
 
 ## Contatos
 <a href="https://instagram.com/pokernol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
