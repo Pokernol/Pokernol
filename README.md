@@ -12,7 +12,7 @@
 </div>
 
 ## Tecnologias Especializadas
-[![Minhas Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,c#,python,postgres)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,python,postgres)](https://skillicons.dev)
 
 ## Frameworks que já utilizei
 [![Minhas Skills](https://skillicons.dev/icons?i=react,vue,spring,bootstrap)](https://skillicons.dev)
